@@ -1,0 +1,10 @@
+Make and assemble case with switches
+make switch cover
+
+Program esp to read button and send command when read button and send message when read the button
+
+python script
+make python script able to send keys
+make python scipt able to send all the keys it reads from a file
+MAke it able to read keys and to if necessary write it to the file
+apped it to the file, so I can undo if necessary
