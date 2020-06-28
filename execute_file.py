@@ -53,6 +53,8 @@ def execute_line(line):
             press('spacebar')
         if char == "<":
             typer("<")
+        if char == "*":
+            typer("*")
         if char in extra_chars:
             press(char)
 

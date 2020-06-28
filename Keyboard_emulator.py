@@ -183,7 +183,7 @@ def release(*args):
            win32api.keybd_event(VK_CODE[i],0 ,win32con.KEYEVENTF_KEYUP ,0)
 
 
-def typer(string=None,*args):
+def typer(string=None,  *args):
     for i in string:
         if i == ' ':
             win32api.keybd_event(VK_CODE['spacebar'], 0,0,0)

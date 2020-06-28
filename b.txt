@@ -1,1 +1,1 @@
-This is key b
+./output < my_file.txt |E|

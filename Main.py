@@ -31,6 +31,7 @@ def program_key(data):
 
 programing_flag = 0
 
+
 while True:
     data = s.recv(BUFFER_SIZE)
     print("This is the data: ",data)

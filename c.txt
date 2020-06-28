@@ -1,1 +1,1 @@
-./avl < avl.txt  |E|
+./output |E|

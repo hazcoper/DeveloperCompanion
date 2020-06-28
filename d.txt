@@ -1,1 +1,1 @@
-gcc AVL.c -o avl|E|
+gcc -Wall -Wextra -Werror -ansi -pedantic *.c -o output |E|
