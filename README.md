@@ -22,6 +22,8 @@ Works with tcp communication over wifi. This means that you will have to be conn
 - Make new case
 - Finish prototype
 - Make instructions
+- Add pictures of prototype
+- Make new version of th prototype fully enclosed with battery
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
